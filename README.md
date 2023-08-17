@@ -7,6 +7,7 @@ My code for a high school computer science project, A Star Pathfinder. It was pr
 ANSI escape in Console plugin is required for full functionality of the visualizer as grid and path is displayed in the console.
 
 ==Description==
+
 The dark blue square represents the starting location.
 The purple square represents the ending location.
 The light blue squares represent the obstacles.
