@@ -8,6 +8,7 @@ ANSI escape in Console plugin is required for full functionality of the visualiz
 
 ==Description==
 
+
 The dark blue square represents the starting location.
 The purple square represents the ending location.
 The light blue squares represent the obstacles.
